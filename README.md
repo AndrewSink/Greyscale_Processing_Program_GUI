@@ -13,5 +13,5 @@ This is an updated version of my first Greyscale Processing program: https://git
 
 The intent of this program is to get more familiar with the Processing PDE and eventually create a more robust image processor for use with drawing plotters.
 
-**KNOWN BUGS: 
-1. Files longer the GUI will load partially off-screen, but 'SAVE' will still capture the full image.**
+KNOWN BUGS: 
+1. Files longer the GUI will load partially off-screen, but 'SAVE' will still capture the full image.
